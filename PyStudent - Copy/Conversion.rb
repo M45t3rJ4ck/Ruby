@@ -1,0 +1,12 @@
+string1 = "100"
+num1 = 99.23
+num2 = 23
+num3 = 150
+string_1 = string1.to_i
+numOne = num1.to_i
+numTwo = num2.to_f
+numThree = num3.to_s
+puts ("#{string1} = #{string_1}")
+puts ("#{num1} = #{numOne}")
+puts ("#{num2} = #{numTwo}")
+puts ("#{num3} = #{numThree}")
